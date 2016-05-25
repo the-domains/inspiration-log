@@ -1,18 +1,22 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.instagram.com/p/BF0Z9zsEM22/'
+inLanguage: null
+keywords: []
+description: ''
+datePublished: '2016-05-25T15:34:25.722Z'
+dateModified: '2016-05-25T15:26:16.172Z'
 title: '#jeremyvilleportraits #jeremyville #studiojeremyvillebrooklyn'
-datePublished: '2016-05-25T15:18:23.421Z'
-dateModified: '2016-05-25T15:16:32.907Z'
 author:
   - name: jeremyville
     url: 'https://www.instagram.com/jeremyville'
     avatar: {}
-isBasedOnUrl: 'https://www.instagram.com/p/BF0Z9zsEM22/'
-description: ''
-starred: false
 sourcePath: _posts/2016-05-25-jeremyvilleportraits-jeremyville-studiojeremyvillebrookly.md
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher: null
+starred: false
 _type: MediaObject
 
 ---
