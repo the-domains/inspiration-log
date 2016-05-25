@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[An art, designs, and people from around the world…]]></title>
+        <description><![CDATA[An art, designs, and people from around the world…]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 25 May 2016 15:07:11 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Detail of Dakar's wall. #dakar #mural #senegal #fishermen #protecttheocean #3ttman]]></title>
+            <description><![CDATA[<article><h1>Detail of Dakar's wall. #dakar #mural #senegal #fishermen #protecttheocean #3ttman</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3a1e3840b59c6bf932c85dc94d335496fbaefcdf.jpg"></article>]]></description>
+            <link>https://www.instagram.com/p/_WkhcgIfNL/</link>
+            <guid isPermaLink="false">35db8bc6-75e5-4435-b8a7-794e240c4fba</guid>
+            <pubDate>Wed, 25 May 2016 15:07:09 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
