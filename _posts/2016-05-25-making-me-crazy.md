@@ -5,18 +5,18 @@ inNav: false
 isBasedOnUrl: 'https://vimeo.com/112338001'
 inLanguage: null
 keywords: []
-description: 'Un chamán, la muerte y una águila se entrelazan para simular una danza sin fin... todo un viaje el que pintó 3TTMAN en el lienzo más grande de la expo "Haciéndome el loco" que se puede ver en la Celaya Brothers.'
-datePublished: '2016-05-25T15:09:18.145Z'
-dateModified: '2016-05-25T15:09:17.216Z'
+description: ''
+datePublished: '2016-05-25T15:27:30.062Z'
+dateModified: '2016-05-25T15:26:49.876Z'
 title: "'making me crazy'"
 author:
   - name: RevistaTaller
     url: 'http://vimeo.com/revistataller'
     avatar: {}
+sourcePath: _posts/2016-05-25-making-me-crazy.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-05-25-making-me-crazy.md
 _type: MediaObject
 
 ---
