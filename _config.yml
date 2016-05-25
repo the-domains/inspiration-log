@@ -1,0 +1,28 @@
+name: Inspiration Log
+favicon: null
+layout_spectrum: 0.79278474021703
+typography_spectrum: 0.6982041918672621
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.6993972333148122
+  lightness: 0.1324269303586334
+  saturation: 0.648774994770065
+  rhythmicContrast: 0.4171122901607305
+purpose: []
