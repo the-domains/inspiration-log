@@ -6,9 +6,9 @@ isBasedOnUrl: 'https://instagram.com/p/BFQAPw1kM50/'
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-25T15:22:50.732Z'
-dateModified: '2016-05-25T15:21:45.112Z'
-title: "The finished piece. Approx 7 x 12 feet. Painted live today, (in about 2 hours, see previous post for timelapse) at the launch for @kiehls Holiday 2016, an annual project for which I'm the artist this year. Previous holiday artists have included @jeffkoons @kaws @kennyscharf ... #kiehls165 #studiojeremyvillebrooklyn #jeremyville creative direction: @megan_mair01 ... Have you taken #atriptojeremyville ? ... @bareps @artestarnyc #takeyourmessagetothestreets #cornersinjeremyville #streetsofjeremyville"
+datePublished: '2016-05-25T15:30:05.553Z'
+dateModified: '2016-05-25T15:22:58.327Z'
+title: 'The finished piece. '
 author:
   - name: jeremyville
     url: 'https://www.instagram.com/jeremyville'
