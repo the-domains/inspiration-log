@@ -6,8 +6,8 @@ isBasedOnUrl: 'https://www.instagram.com/p/9FCjlsofJU/'
 inLanguage: null
 keywords: []
 description: 'Going through older stuff while preparing the new Website. "intergalactic wars #1" 190x130cm 2013 #intergalactic #wars #3ttman'
-datePublished: '2016-05-25T15:29:15.778Z'
-dateModified: '2016-05-25T15:28:38.105Z'
+datePublished: '2016-05-25T15:34:54.012Z'
+dateModified: '2016-05-25T15:29:33.263Z'
 title: 'Going through older stuff while preparing the new Website. "intergalactic wars #1" '
 author:
   - name: 3ttman
