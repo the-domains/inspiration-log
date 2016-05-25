@@ -1,7 +1,7 @@
 name: Inspiration Log
 favicon: null
-layout_spectrum: 0.79278474021703
-typography_spectrum: 0.6982041918672621
+layout_spectrum: 0.92487
+typography_spectrum: 0.02087
 title: 'An art, designs, and people from around the world…'
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.6993972333148122
-  lightness: 0.1324269303586334
-  saturation: 0.648774994770065
-  rhythmicContrast: 0.4171122901607305
+    - '#000000'
+    - '#403732'
+    - '#a6a19b'
+    - '#d4cfc9'
+    - '#67625e'
+  brandStrength: 0.125
+  lightness: 1
+  saturation: 0.8125
+  rhythmicContrast: 0.5
 purpose: []
