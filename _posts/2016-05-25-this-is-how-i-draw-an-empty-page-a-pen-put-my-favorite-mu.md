@@ -1,18 +1,22 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.instagram.com/p/BFKRH6uEM-T/'
+inLanguage: null
+keywords: []
+description: ''
+datePublished: '2016-05-25T15:34:07.137Z'
+dateModified: '2016-05-25T15:33:43.465Z'
 title: "This is how I draw: an empty page, a pen, put my favorite music on, and then just let the ink glide across the paper. Unthink. Unlearn. Unplan. Drawn for you on this Sunday afternoon in #newyork from #studiojeremyvillebrooklyn #may8th music by #BandofHorses with friend @ryanmonroe5000 \uD83D\uDC4D\uD83C\uDFFC\uD83D\uDC4D\uD83C\uDFFC music clip for this track #dilly by talented homie @philipandelman #jeremyville \uD83D\uDC49\uD83C\uDFFD #cornersinjeremyville ... Have you taken #atriptojeremyville ? #streetsofjeremyville #jeremyvilleanimation #orchardStreet #lowerEastSide"
-datePublished: '2016-05-25T15:18:23.190Z'
-dateModified: '2016-05-25T15:17:18.291Z'
 author:
   - name: jeremyville
     url: 'https://www.instagram.com/jeremyville'
     avatar: {}
-isBasedOnUrl: 'https://www.instagram.com/p/BFKRH6uEM-T/'
-description: ''
-starred: false
 sourcePath: _posts/2016-05-25-this-is-how-i-draw-an-empty-page-a-pen-put-my-favorite-mu.md
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher: null
+starred: false
 _type: MediaObject
 
 ---
