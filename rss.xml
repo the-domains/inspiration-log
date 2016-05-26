@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[An art, designs, and people from around the world…]]></title>
-        <description><![CDATA[An art, designs, and people from around the world…]]></description>
+        <title><![CDATA[Inspiration Log || An art, designs, and people from around the world…]]></title>
+        <description><![CDATA[Inspiration Log || An art, designs, and people from around the world…]]></description>
         <link>http://blog.eilifint.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 26 May 2016 06:48:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 May 2016 06:55:13 GMT</lastBuildDate>
         <atom:link href="http://blog.eilifint.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Detail on a new work for a collective show at @lightgreyartlab coming soon! #kruelladenfer #botanica #lightgreyartlab]]></title>
+            <description><![CDATA[<article><h1>Detail on a new work for a collective show at @lightgreyartlab coming soon! #kruelladenfer #botanica #lightgreyartlab</h1><img src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/12930982_194963660888308_1525649125_n.jpg?ig_cache_key=MTIxOTEwNzUwNTg0ODg0MTk0MA%3D%3D.2"></article>]]></description>
+            <link>https://www.instagram.com/p/BDrI9FFIfbU/</link>
+            <guid isPermaLink="false">f16d4c67-f313-41ff-baf4-a0416e3e0e04</guid>
+            <pubDate>Thu, 26 May 2016 06:54:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[interview with artist anna taratiel aka OVNI]]></title>
             <description><![CDATA[<article><h1>interview with artist anna taratiel aka OVNI</h1><p>interview with artist anna taratiel aka OVNI interview with artist anna taratiel aka OVNIportrait by marco buddingh anna taratiel aka OVNI is a spanish artist based in amsterdam. her work spans myriad media and sizes; from small canvases to large murals, always exploring abstract forms and bold colors.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4f8f0f972f34e9851e1ec2317c9d89d5a2c339ca.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.instagram.com/p/BFvYYKuufJp/</link>
             <guid isPermaLink="false">d35c2985-b310-4d2b-b6a5-614cf2e8ac4e</guid>
             <pubDate>Thu, 26 May 2016 06:19:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[wooosh 😁🙈🙉😀]]></title>
-            <description><![CDATA[<article><h1>wooosh 😁🙈🙉😀</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c21f2ebad77a1eb5d2e01172c168e62c95dc86c0.jpg"></article>]]></description>
-            <link>https://www.instagram.com/p/zu3HZhiz5_/</link>
-            <guid isPermaLink="false">d8470f00-30b1-4119-a7f2-699db6e8ff79</guid>
-            <pubDate>Thu, 26 May 2016 06:17:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
