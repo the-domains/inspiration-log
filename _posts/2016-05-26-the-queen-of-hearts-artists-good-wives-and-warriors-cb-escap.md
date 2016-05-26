@@ -1,18 +1,22 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.instagram.com/p/BA-2cyzuhBB/'
+inLanguage: null
+keywords: []
+description: ''
+datePublished: '2016-05-26T06:46:08.336Z'
+dateModified: '2016-05-26T06:41:41.770Z'
 title: 'The Queen of Hearts Artists: Good Wives & Warriors CB: Escape to Wonderland Medium: Colleen 787 #adultcoloring #adultcoloringph #coloringbook #colouringforadults #coloringbookph #colour #colouringbook #coloringph #manila #kababawan #whencathycolors #majesticcoloring #beautifulcoloring #coloriagespouradultes #escapetowonderland #colleen787 #colleen #arttherapy #art #coloriage #colorindooinstagram #aliceinwonderland #alice #queenofhearts #goodwivesandwarriors'
-datePublished: '2016-05-26T06:41:36.927Z'
-dateModified: '2016-05-26T06:40:55.367Z'
 author:
   - name: whencathycolors
     url: 'https://www.instagram.com/whencathycolors'
     avatar: {}
-isBasedOnUrl: 'https://www.instagram.com/p/BA-2cyzuhBB/'
-description: ''
-starred: false
 sourcePath: _posts/2016-05-26-the-queen-of-hearts-artists-good-wives-and-warriors-cb-escap.md
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher: null
+starred: false
 _type: MediaObject
 
 ---
