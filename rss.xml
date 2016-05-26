@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[An art, designs, and people from around the world…]]></title>
         <description><![CDATA[An art, designs, and people from around the world…]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://blog.eilifint.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 26 May 2016 05:33:08 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 26 May 2016 05:44:39 GMT</lastBuildDate>
+        <atom:link href="http://blog.eilifint.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[OLD X NEW]]></title>
+            <description><![CDATA[<article><h1>OLD X NEW</h1><p>On the left my mural from last year and on the right @kruelladenfer almost finished beautiful mural for this year's edition of Tons da Primavera festival in Viseu...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e5fd5d9f07da51e1ca7465d898c75b658faeb384.jpg"></article>]]></description>
+            <link>https://www.instagram.com/p/BFthgZ0q5X6/</link>
+            <guid isPermaLink="false">ce226600-6e8b-4db7-be62-6a6e99136954</guid>
+            <pubDate>Thu, 26 May 2016 05:44:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Going through older stuff while preparing the new Website. "intergalactic wars #1" 190x130cm 2013 #intergalactic #wars #3ttman]]></title>
             <description><![CDATA[<article><h1>Going through older stuff while preparing the new Website. "intergalactic wars #1" 190x130cm 2013 #intergalactic #wars #3ttman</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2af3ce824c7b74c3502dae8ce27985a3e10676af.jpg"></article>]]></description>
