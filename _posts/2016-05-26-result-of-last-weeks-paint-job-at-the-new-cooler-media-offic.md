@@ -1,18 +1,22 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.instagram.com/p/BEN8dbbjorV/?hl=en'
+inLanguage: null
+keywords: []
+description: ''
+datePublished: '2016-05-26T06:37:24.486Z'
+dateModified: '2016-05-26T06:36:19.999Z'
 title: Result of last weeks paint job at the new Cooler Media office
-datePublished: '2016-05-26T06:36:12.781Z'
-dateModified: '2016-05-26T06:35:45.471Z'
 author:
   - name: hedof
     url: 'https://www.instagram.com/hedof'
     avatar: {}
-isBasedOnUrl: 'https://www.instagram.com/p/BEN8dbbjorV/?hl=en'
-description: ''
-starred: false
 sourcePath: _posts/2016-05-26-result-of-last-weeks-paint-job-at-the-new-cooler-media-offic.md
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher: null
+starred: false
 _type: MediaObject
 
 ---
