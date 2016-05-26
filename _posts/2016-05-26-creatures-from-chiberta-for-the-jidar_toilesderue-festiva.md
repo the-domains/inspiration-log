@@ -6,8 +6,8 @@ isBasedOnUrl: 'https://www.instagram.com/p/BE-r69GThyj/'
 inLanguage: null
 keywords: []
 description: ' Many thanks to Salah, Ghita, Ghita banana and all the persons who worked on this great festival ! #jidar_toilesderue'
-datePublished: '2016-05-26T06:10:41.028Z'
-dateModified: '2016-05-26T06:10:22.255Z'
+datePublished: '2016-05-26T06:31:59.155Z'
+dateModified: '2016-05-26T06:10:50.275Z'
 title: '"Creatures from Chiberta" For the @jidar_toilesderue festival in Rabat ! '
 author:
   - name: nicolasbarrome
