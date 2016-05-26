@@ -6,17 +6,17 @@ isBasedOnUrl: 'https://www.instagram.com/p/9FCjlsofJU/'
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-26T05:33:07.960Z'
-dateModified: '2016-05-26T05:32:51.928Z'
+datePublished: '2016-05-26T05:48:51.850Z'
+dateModified: '2016-05-26T05:33:20.384Z'
 title: 'Going through older stuff while preparing the new Website. "intergalactic wars #1" 190x130cm 2013 #intergalactic #wars #3ttman'
 author:
   - name: 3ttman
     url: 'https://www.instagram.com/3ttman'
     avatar: {}
+sourcePath: _posts/2016-05-26-going-through-older-stuff-while-preparing-the-new-website.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-05-26-going-through-older-stuff-while-preparing-the-new-website.md
 _type: MediaObject
 
 ---
