@@ -1,18 +1,22 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.instagram.com/p/BCAkq3QGCeC/?hl=en'
+inLanguage: null
+keywords: []
+description: ''
+datePublished: '2016-05-26T07:01:20.621Z'
+dateModified: '2016-05-26T06:59:53.417Z'
 title: '#invitation #wedding #design #typografie #handtypography by our intern @raoulgottschling'
-datePublished: '2016-05-26T06:59:47.928Z'
-dateModified: '2016-05-26T06:59:23.843Z'
 author:
   - name: buerouebele
     url: 'https://www.instagram.com/buerouebele'
     avatar: {}
-isBasedOnUrl: 'https://www.instagram.com/p/BCAkq3QGCeC/?hl=en'
-description: ''
-starred: false
 sourcePath: _posts/2016-05-26-invitation-wedding-design-typografie-handtypography-by.md
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher: null
+starred: false
 _type: MediaObject
 
 ---
