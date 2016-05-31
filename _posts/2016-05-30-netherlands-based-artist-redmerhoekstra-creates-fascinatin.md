@@ -6,8 +6,8 @@ isBasedOnUrl: 'https://www.instagram.com/p/BF391uhguzr/'
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-31T16:50:50.120Z'
-dateModified: '2016-05-31T16:50:49.278Z'
+datePublished: '2016-05-31T16:55:02.477Z'
+dateModified: '2016-05-31T16:55:01.924Z'
 title: 'Netherlands-based artist RedmerHoekstra creates fascinating alternative realities and masterfully merges animals, people and everyday objects or machines in his surreal drawings. '
 author:
   - name: ''
@@ -16,7 +16,7 @@ author:
 sourcePath: _posts/2016-05-30-netherlands-based-artist-redmerhoekstra-creates-fascinatin.md
 authors: []
 publisher: null
-starred: true
+starred: false
 _type: MediaObject
 
 ---
