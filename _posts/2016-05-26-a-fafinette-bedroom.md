@@ -1,18 +1,22 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.instagram.com/p/BFHLZP8raVk/?hl=en'
+inLanguage: null
+keywords: []
+description: ''
+datePublished: '2016-05-31T16:55:53.988Z'
+dateModified: '2016-05-31T16:55:52.692Z'
 title: A Fafinette bedroom ?
-datePublished: '2016-05-26T06:31:04.546Z'
-dateModified: '2016-05-26T06:30:28.076Z'
 author:
   - name: therealfafi
     url: 'https://www.instagram.com/therealfafi'
     avatar: {}
-isBasedOnUrl: 'https://www.instagram.com/p/BFHLZP8raVk/?hl=en'
-description: ''
-starred: false
 sourcePath: _posts/2016-05-26-a-fafinette-bedroom.md
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher: null
+starred: true
 _type: MediaObject
 
 ---
