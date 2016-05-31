@@ -1,7 +1,7 @@
 ---
 title: 'FROM VISION TO REALITY: URBAN NATION MUSEUM FOR URBAN CONTEMPORARY ART'
-datePublished: '2016-05-31T16:51:04.727Z'
-dateModified: '2016-05-31T16:51:04.002Z'
+datePublished: '2016-05-31T16:55:29.063Z'
+dateModified: '2016-05-31T16:55:28.562Z'
 author:
   - name: Urban Nation
     url: 'https://www.youtube.com/channel/UCvNhKz5XmcWOB1wQ2_LKxzA'
@@ -9,7 +9,7 @@ author:
 isBasedOnUrl: 'https://youtube.com/watch?v=LHvJJ_wTpgM&feature=youtu.be'
 description: "Our vision is getting reality: The Construction of a world's unique MUSEUM FOR URBAN CONTEMPORARY ART starts now! We are working on our vision to build the first independent and non-commercial home for urban contemporary art since 2013. With more than 200 artists, URBAN NATION is already turning Berlin into a huge outdoor Museum."
 sourcePath: _posts/2016-05-26-from-vision-to-reality-urban-nation-museum-for-urban-contem.md
-starred: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
