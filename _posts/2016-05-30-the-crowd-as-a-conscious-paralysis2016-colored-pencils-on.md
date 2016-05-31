@@ -1,7 +1,7 @@
 ---
 title: '"The Crowd As A Conscious Paralysis"2016 colored pencils on moleskine paper for MONISM my soloshow at @galleribenoni . Opening may13 #monism #galleribenoni #coloredpencil #gaia #fabercastell #fabercastellpolychromos #moleskine #moleskineart #soloshow #art #artwork #coloredpencils'
-datePublished: '2016-05-31T16:48:11.274Z'
-dateModified: '2016-05-31T16:47:46.845Z'
+datePublished: '2016-05-31T16:50:50.115Z'
+dateModified: '2016-05-31T16:50:48.842Z'
 author:
   - name: marcomazzoniart
     url: 'https://www.instagram.com/marcomazzoniart'
@@ -9,7 +9,7 @@ author:
 isBasedOnUrl: 'https://www.instagram.com/p/BE34bMdNSny/?hl=en'
 description: ''
 sourcePath: _posts/2016-05-30-the-crowd-as-a-conscious-paralysis2016-colored-pencils-on.md
-starred: false
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
