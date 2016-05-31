@@ -6,8 +6,8 @@ isBasedOnUrl: 'https://www.instagram.com/p/BEN8dbbjorV/?hl=en'
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-31T16:55:55.738Z'
-dateModified: '2016-05-31T16:55:55.113Z'
+datePublished: '2016-05-31T16:56:00.640Z'
+dateModified: '2016-05-31T16:55:59.790Z'
 title: Result of last weeks paint job at the new Cooler Media office
 author:
   - name: hedof
@@ -16,7 +16,7 @@ author:
 sourcePath: _posts/2016-05-26-result-of-last-weeks-paint-job-at-the-new-cooler-media-offic.md
 authors: []
 publisher: null
-starred: true
+starred: false
 _type: MediaObject
 
 ---
