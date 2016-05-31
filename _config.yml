@@ -1,4 +1,20 @@
-typography_spectrum: 0.47607
+name: Inspiration Log
+favicon: null
+layout_spectrum: 0
+typography_spectrum: 0.44769
+title: 'An art, designs, and people from around the world…'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: UA-78303371-1
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#000000'
@@ -10,20 +26,4 @@ color:
   lightness: 1
   saturation: 0.8125
   rhythmicContrast: 0
-opengraph:
-  image: null
-  type: null
-  appId: null
-layout_spectrum: 0
-analytics:
-  google: UA-78303371-1
-  facebook: null
-  twitter: null
-name: Inspiration Log
-cta:
-  domain: null
-  bucket: null
-  version: null
-favicon: null
-title: 'An art, designs, and people from around the world…'
 purpose: []
