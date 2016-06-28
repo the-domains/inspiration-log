@@ -1,23 +1,27 @@
 ---
-title: NUBE // PUERTO RICO
-datePublished: '2016-06-28T17:03:07.284Z'
-dateModified: '2016-06-28T17:02:47.713Z'
-author:
-  - name: Alexandra Henry
-    url: 'http://vimeo.com/alexandrahenry'
-    avatar: {}
+inFeed: true
+hasPage: false
+inNav: false
 isBasedOnUrl: 'https://vimeo.com/channels/streetheroines/133708252'
+inLanguage: null
+keywords: []
 description: >-
   PUERTO RICO- NUBE is an artist from the San Juan suburb of Levittown. Growing
   up watching films by creatively ambitious directors, animation remains a key
   inspiration in her practice. Here I follow her around the side streets of San
   Juan and learn about what motivates her to paint large, ninja-like shadows in
   precarious corners of the city.
-starred: false
+datePublished: '2016-06-28T17:19:24.153Z'
+dateModified: '2016-06-28T17:18:43.088Z'
+title: NUBE // PUERTO RICO
+author:
+  - name: Alexandra Henry
+    url: 'http://vimeo.com/alexandrahenry'
+    avatar: {}
 sourcePath: _posts/2016-06-28-nube-puerto-rico.md
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher: null
+starred: false
 _type: MediaObject
 
 ---
